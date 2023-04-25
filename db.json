@@ -6,9 +6,15 @@
             "id":1
         }
     ],
-    "users":[],
+    "users":[
+        {
+            
+        }
+    ],
     "login":[],
     "food":[],
+    "cars":[],
+    "wishlisted_cars":[],
     "dogs":[
         {
             "id": 1,
