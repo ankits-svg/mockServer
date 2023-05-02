@@ -31,9 +31,5 @@
             "gender": "Female"
           }
     ],
-    "admin":[
-        {
-            
-        }
-    ]
+    "admin":[]
 }
