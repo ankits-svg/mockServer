@@ -29,5 +29,6 @@
     ],
     "admin":[],
     "employees":[],
-    "parlour":[]
+    "parlour":[],
+    "appointments":[]
 }
